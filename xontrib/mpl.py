@@ -3,7 +3,7 @@ is imported.
 """
 
 from xonsh.built_ins import XSH
-from xonsh.lazyasd import lazyobject
+from xonsh.lib.lazyasd import lazyobject
 from xonsh.tools import unthreadable
 
 __all__ = ()
